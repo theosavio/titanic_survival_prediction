@@ -75,7 +75,7 @@ Start the Flask app on localhost.
 
 Use the public URL provided by ngrok to access the web application.
 
-##Conclusion
+## Conclusion
 This project demonstrates how to build and deploy a machine learning model for predicting Titanic survival using logistic regression. The web application allows for easy interaction and provides real-time predictions based on user inputs.
 
 ## References
