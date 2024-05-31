@@ -78,8 +78,8 @@ Use the public URL provided by ngrok to access the web application.
 ## User Interface Showcase
 - Below are screenshots showcasing the user interface of the web application:
 
-![Screenshot 1](titanic_output_1.png)
-![Screenshot 2](titanic_output_1.png)
+![Screenshot 1](titanic_surivival_prediction/titanic_output_1.png)
+![Screenshot 2](titanic_surivival_prediction/titanic_output_1.png)
 
 ## Conclusion
 This project demonstrates how to build and deploy a machine learning model for predicting Titanic survival using logistic regression. The web application allows for easy interaction and provides real-time predictions based on user inputs.
